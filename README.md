@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@theparanoidguy**
-- 👀 I’m interested in **System Design**, **Cloud** & **Teaching**.
-- 🌱 I’m currently learning **Azure**, **DevOps** & **Summary Writing**!
-- 💞️ I’m open to collaborate on any projects which focus on **System Design**, **Technical Writing**, **DevOps**, **Information Security** & **Cloud**.
+- 👀 I’m interested in **System Design**, **Cloud** , **Writing** & **Teaching**.
+- 🌱 I’m currently learning **Azure**, **AWS**, **GCP**, **Cloud Solution Architecture**, **DevOps** & **Technical Writing**.
+- 💞️ I’m open to collaborate on any projects which focus on **Cloud Architecting with Azure, AWS or GCP**, **Technical Writing**, **DevOps** & **Information Security**.
 - 📫 How to reach me - you can contact me on **ameyngangal@gmail.com**
 
 <!---
